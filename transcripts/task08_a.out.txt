@@ -1,0 +1,6 @@
+Price without VAT: Price with VAT: 112.00
+Write a sentence: Words: 4
+Kilobytes for a number: 4 kilobytes = 4096
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

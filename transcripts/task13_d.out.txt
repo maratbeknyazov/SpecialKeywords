@@ -1,0 +1,9 @@
+Settings: [volume, darkMode, username, theme, ratio]
+Setting name: theme is no value
+Int
+String
+as? Int gives: null
+as String? gives: null
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

@@ -1,0 +1,8 @@
+Items separated by spaces (for example: 10 apples 2.5 7): All:      [true, 5, false, x]
+Ints:     [5]
+Doubles:  []
+Booleans: [true, false]
+Words:    [x]
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

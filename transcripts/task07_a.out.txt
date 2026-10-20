@@ -1,0 +1,8 @@
+Items separated by spaces (for example: 10 apples 2.5 7): All:      [10, apples, 2.5, 7, pears, 0.75]
+Ints:     [10, 7]
+Doubles:  [2.5, 0.75]
+Booleans: []
+Words:    [apples, pears]
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

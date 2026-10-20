@@ -1,0 +1,4 @@
+Choose 1, 2, 3 or 4: Goodbye!
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

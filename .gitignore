@@ -1,0 +1,29 @@
+# Gradle build output
+build/
+.gradle/
+
+# IDE / editor
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# Kotlin / JVM artifacts
+*.class
+out/
+.kotlin/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local tooling scratch (compiler dumps, run scripts, logs)
+.work/
+
+# Environment / local properties
+local.properties

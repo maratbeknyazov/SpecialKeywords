@@ -1,0 +1,9 @@
+0 names, 0 ages
+Coupon: Discount: 20%
+Commands: add N, sub N, mul N, reset, show, exit
+> Total reset to 0
+> > > Total = 7
+> Bye, final total = 7
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

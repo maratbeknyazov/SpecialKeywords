@@ -1,0 +1,4 @@
+Age: Input error: Age cannot be negative
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

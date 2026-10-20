@@ -1,0 +1,6 @@
+Your age (0-120): Invalid input, try again.
+Your age (0-120): Invalid input, try again.
+Your age (0-120): Age accepted: 35 after 3 attempt(s)
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

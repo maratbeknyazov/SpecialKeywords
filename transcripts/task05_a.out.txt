@@ -1,0 +1,6 @@
+Enter prices, one per line. Type 'done' to finish.
+'abc' is not a number, skipped
+Items: 2, total: 35.5
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

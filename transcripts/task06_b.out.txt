@@ -1,0 +1,4 @@
+Age: Height in meters: Newsletter (true/false): City: age=null, height=null, subscribed=null, city=
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

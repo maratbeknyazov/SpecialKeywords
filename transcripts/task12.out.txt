@@ -1,0 +1,9 @@
+--- first contact ---
+Name: Phone: --- second contact ---
+Name: Phone: Ali (991234567)
+a == b: true
+a === b: false
+book contains b: true
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

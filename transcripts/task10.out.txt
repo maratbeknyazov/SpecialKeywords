@@ -1,0 +1,8 @@
+Enter lines like: Ali 85   (type 'end' to stop)
+Use: name grade
+Use: name grade
+Ali: 85, 70  average = 77.5  best = 85
+Dilnoza: 90  average = 90.0  best = 90
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

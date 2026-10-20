@@ -1,0 +1,4 @@
+Age: You will be 21 next year
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

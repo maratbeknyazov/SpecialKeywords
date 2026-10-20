@@ -1,0 +1,6 @@
+Enable debug logging? (yes/no): (building the report...)
+[DEBUG] report with 1000 rows
+Program finished
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

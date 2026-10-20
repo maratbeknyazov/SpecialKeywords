@@ -1,0 +1,11 @@
+Settings: [volume, darkMode, username, theme, ratio]
+Setting name: volume is a number, doubled it is 14
+Int
+String
+as? Int gives: 7
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US
+Exception in thread "main" java.lang.ClassCastException: class java.lang.Integer cannot be cast to class java.lang.String (java.lang.Integer and java.lang.String are in module java.base of loader 'bootstrap')
+	at task13.MainKt.main(Main.kt:37)
+	at task13.MainKt.main(Main.kt)

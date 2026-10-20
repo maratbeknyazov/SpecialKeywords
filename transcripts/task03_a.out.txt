@@ -1,0 +1,9 @@
+Search: First match: Ali Karimov
+Match: Ali Karimov
+Match: Aliyah Smith
+Match: Bobur Aliev
+First match: Ali Karimov
+Search finished
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

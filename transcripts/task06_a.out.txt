@@ -1,0 +1,4 @@
+Age: Height in meters: Newsletter (true/false): City: age=25, height=1.75, subscribed=true, city=Samarkand
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

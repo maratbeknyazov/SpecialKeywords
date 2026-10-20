@@ -1,0 +1,5 @@
+Settings: [volume, darkMode, username, theme, ratio]
+Setting name: No such setting
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

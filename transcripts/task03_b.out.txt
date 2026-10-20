@@ -1,0 +1,5 @@
+Search: No contact contains 'xyz'
+Search finished
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

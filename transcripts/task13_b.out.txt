@@ -1,0 +1,11 @@
+Settings: [volume, darkMode, username, theme, ratio]
+Setting name: darkMode is switched ON
+Int
+String
+as? Int gives: null
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US
+Exception in thread "main" java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class java.lang.String (java.lang.Boolean and java.lang.String are in module java.base of loader 'bootstrap')
+	at task13.MainKt.main(Main.kt:37)
+	at task13.MainKt.main(Main.kt)

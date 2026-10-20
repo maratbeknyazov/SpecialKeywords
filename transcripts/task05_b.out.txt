@@ -1,0 +1,7 @@
+Enter prices, one per line. Type 'done' to finish.
+'abc' is not a number, skipped
+Price 20000.0 is too large, stopping
+Items: 1, total: 10.0
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

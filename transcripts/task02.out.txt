@@ -1,0 +1,6 @@
+Task name: Saved: Write report
+Pending reminders: 1
+Reminder: finish 'Write report'
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

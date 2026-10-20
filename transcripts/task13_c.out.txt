@@ -1,0 +1,9 @@
+Settings: [volume, darkMode, username, theme, ratio]
+Setting name: username is a text of 7 characters
+Int
+String
+as? Int gives: null
+as String? gives: Dilnoza
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US

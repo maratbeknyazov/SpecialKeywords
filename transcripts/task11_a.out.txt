@@ -1,0 +1,11 @@
+E-mail: Password: E-mail: OK
+Password: OK
+Not blank: OK
+Used as a plain function type: true
+Valid e-mails in the list: 2
+Number 1 to check the +998 code: Number 2: Number 3: With the +998 code: 2
+Room width in meters: That is 13.12336 feet
+Room width: 13.12336 m
+
+[stderr]
+Picked up JAVA_TOOL_OPTIONS: -Duser.language=en -Duser.country=US
